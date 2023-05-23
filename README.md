@@ -36,4 +36,6 @@ I'm a passionate developer living in Mardin, Turkey.
 
 <br/>
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=merthankavak.merthankavak&left_text=Profile views"  />
+![](https://komarev.com/ghpvc/?username=merthankavak)
+
+
